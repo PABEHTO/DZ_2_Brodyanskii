@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696864353 source:d:\try\fin\goi\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+
